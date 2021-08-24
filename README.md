@@ -1,2 +1,2 @@
 # cfg-aug-2021-demo
- A website to have lunch with a seal
+Demo Bootstrap site for the CFG August 2021 Career Switchers course.
